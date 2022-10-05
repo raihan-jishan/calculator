@@ -1,0 +1,3 @@
+#simple calculator
+simple calculator using html, css, js. in future many updates are com…
+…ing, this is a trail version. 
