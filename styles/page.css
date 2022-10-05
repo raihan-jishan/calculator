@@ -1,0 +1,19 @@
+/* 
+    this is page styleing file for extr ordenary 
+    date: 05 10 -2022 
+*/
+/*  start styling */
+.InfuContainer ul li {
+  display: inline-block;
+  background: rgb(201, 201, 201);
+  color: rgb(0, 0, 0);
+  padding: 9px;
+  margin: 10px;
+  font-weight: 550;
+  border-radius: 4px;
+}
+/*  dashboard  */
+.dashBoard{
+    text-align: center;
+    margin: 2px;
+}
